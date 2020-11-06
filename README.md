@@ -21,12 +21,32 @@ A simple shopping tool with limited items, allows user to pick from a variety of
 
 
 Methods, Tools, and Strategies:
+
+
 •	Picture, Label, Buttons, TextBoxes, and Radio Buttons - Chapter 2, pg. 59
+
+
 •	Variables: Integer, String, and Double – Chapter 3, pg. 77
+
+
 •	Selection: If and If Else – Chapter 4, pg. 120
+
+
 •	Do and For loop – Chapter 5, pg. 185 & pg. 193
+
+
 •	Sub Procedure – Chapter 6, pg. 242
+
+
 •	String Manipulation: Trim – Chapter 7, pg. 302
+
+
 •	Arrays – Chapter 8, pg. 347
+
+
 •	Sequential Access Files – Chapter 9, pg. 393
+
+
 •	Menus – Chapter 9, pg. 408
+
+
