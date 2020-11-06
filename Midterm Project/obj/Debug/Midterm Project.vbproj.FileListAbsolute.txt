@@ -1,0 +1,12 @@
+H:\VBII\Midterm Project\Midterm Project\bin\Debug\Midterm Project.exe.config
+H:\VBII\Midterm Project\Midterm Project\bin\Debug\Midterm Project.exe
+H:\VBII\Midterm Project\Midterm Project\bin\Debug\Midterm Project.pdb
+H:\VBII\Midterm Project\Midterm Project\bin\Debug\Midterm Project.xml
+H:\VBII\Midterm Project\Midterm Project\obj\Debug\Midterm Project.vbprojAssemblyReference.cache
+H:\VBII\Midterm Project\Midterm Project\obj\Debug\Midterm_Project.Form1.resources
+H:\VBII\Midterm Project\Midterm Project\obj\Debug\Midterm_Project.Resources.resources
+H:\VBII\Midterm Project\Midterm Project\obj\Debug\Midterm Project.vbproj.GenerateResource.cache
+H:\VBII\Midterm Project\Midterm Project\obj\Debug\Midterm Project.vbproj.CoreCompileInputs.cache
+H:\VBII\Midterm Project\Midterm Project\obj\Debug\Midterm Project.exe
+H:\VBII\Midterm Project\Midterm Project\obj\Debug\Midterm Project.xml
+H:\VBII\Midterm Project\Midterm Project\obj\Debug\Midterm Project.pdb
