@@ -1,8 +1,9 @@
 # Visual-Basic-II-Midterm
+
 Hector Mojica
 15 October 2020
 Visual Basic II
-Purpose:\n
+Purpose:
 Midterm Project written in Visual Basic.NET
 A simple shopping tool with limited items, allows user to pick from a variety of: Milk, Eggs, Vegetables, Fruits, Meat, Water, and Bread. It also takes the users first and last name for the order. Calculates the total based on items purchased and whether the user is using the delivery service Instacart or if they are picking up the order.
 Stipulations:
