@@ -9,6 +9,8 @@
 Visual Basic II
 
 
+[Textbook used](https://www.amazon.com/Programming-Microsoft-Visual-Basic-2017/dp/1337102121 "Amazon")
+
 Purpose:
 
 
