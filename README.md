@@ -1,6 +1,6 @@
 # Visual-Basic-II-Midterm
 
-Hector Mojica
+# Hector Mojica
 15 October 2020
 Visual Basic II
 Purpose:
